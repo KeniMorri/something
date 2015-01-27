@@ -1,0 +1,19 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context=".fragment_benefit">
+
+
+    <Button
+        android:layout_width="295dp"
+        android:layout_height="138dp"
+        android:text="Basic"
+        android:id="@+id/button"
+        android:layout_gravity="left|center_vertical" />
+
+    <Button
+        android:layout_width="273dp"
+        android:layout_height="135dp"
+        android:text="Intermediate"
+        android:id="@+id/button2"
+        android:layout_gravity="right|center_vertical" />
+</FrameLayout>

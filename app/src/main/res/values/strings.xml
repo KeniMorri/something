@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Breathe Easy</string>
+    <string name="title_section1">Breathing And Wellness</string>
+    <string name="title_section2">What Type of Breather are you?</string>
+    <string name="title_section3">Tracking your Progress</string>
+    <string name="title_section4">Start your BREATHE EASY Training</string>
+    <string name="title_section5">Applications - A Matter of Life and Breath</string>
+    <string name="title_section6">Community</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_exercise">ExerciseActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_exerciselist">Exerciselist</string>
+    <string name="title_activity_exercise2">Exercise2</string>
+
+</resources>
